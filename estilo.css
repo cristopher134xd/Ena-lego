@@ -1,0 +1,29 @@
+	body{
+		background:gray
+	}
+	
+		#caja{
+			background:black;
+		}
+
+		#caja ul{
+			list-style: none;
+			margin: 0;
+			padding: 0;	
+		}
+
+		#caja ul li {
+			display: inline-block;			
+		}
+
+		#caja ul li a{
+			color:white;
+			display: block;
+			padding:30px 60px ;
+			text-decoration:none; 
+
+		}
+
+		#caja ul li a:hover{
+			background:cyan;
+		}
