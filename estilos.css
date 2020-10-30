@@ -1,0 +1,53 @@
+div{
+	width:100%;
+}
+
+img{
+	display:block;
+	height: auto;
+	width: auto;
+	margin: auto;
+}
+
+#lol{
+	width:500px;
+	height:500px;
+}
+
+img{
+	display:block;
+	height: 1000px;
+	width: 1000px;
+	margin:auto;
+}
+
+p{
+	font-size: 40px;
+	color: red;
+
+}
+
+body{
+	background: blue;
+}
+
+h1{
+	font-size: 70px;
+}
+
+#container{
+	background: black;
+	list-style: 0;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+#container ul li a{
+			color:white;
+			display: block;
+			padding:30px 60px ;
+			text-decoration:none;
+#container ul li a:hover{
+	background:cyan
+}
